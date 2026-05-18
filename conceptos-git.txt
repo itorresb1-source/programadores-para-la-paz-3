@@ -1,0 +1,5 @@
+#Repositorio:[Es un espacio de almacenamiento virtual centralizado diseñado para reservar y compartir datos, archivos o código abierto, cuya principal función es facilitar el acceso e integración de proyectos de desarrollo de software o investigaciones académicas]
+
+*Commit: [Es un comando usado en la terminal de Git para guardar una copia virtual permanente de los cambios realizados en el repositorio local, funcionando como un punto de guardado que te permite volver al estado exacto en que se dejo el código respectivamente]
+
++Push: [Es un comando usado en la terminal de Git como punto de subida de los commits en la rama o branch del repositorio local al servidor remoto, sirviendo como la transferencia de confirmación entre repositorios mediante el calculo de la base de datos]
