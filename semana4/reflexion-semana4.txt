@@ -1,0 +1,8 @@
+Inicialmente, node.js es una herramienta gratuita y con un ecosistema npm amigable y simple para los principiantes, que permite sostener proyectos comunitarios de bajo costo
+y con la facilidad para hallar personas que conozcan de programacion que generen retroalimentacion de los codigos empleados para cada procedimiento
+adicionalmente, como herramienta de codigo abierto democratiza el conocimiento digital entre personas con ubicaciones remotas o con brechas de conectividad;
+por otro lado, como software libre crea la conciencia en sus usuarios de comunidad colaborativa razon por la cual las comunidades pueden desarrollar
+proyectos digitales que reporten la solucion a una problematica social mediante la adaptacion de tecnologias de programacion, sin embargo
+los codigos pueden ser compartidos libremente entre los participantes desde diferentes puntos del mundo, lo cual supone que la cooperacion
+entre usuarios con una causa digital unica, que organiza participantes a la transformacion social de sus comunidades mediante el control absoluto
+de la informacion, reduciendo la brecha digital, los empleos locales, y las habilidades tecnicas de los ciudadanos amateurs.
