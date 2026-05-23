@@ -1,0 +1,9 @@
+¿Cómo podrían las APIs ayudar a que las comunidades compartan información, reportes o alertas de manera organizada? 
+Las APIs son esencia puentes digitales que permiten conectar diferentes aplicaciones y sistemas de forma automatica para organizar el caos de informacion y mensajes
+en barrios, veredas, redes colectivas, y localidades, por ejemplo una comunidad que crea un formulario web y registra cientos de datos de sus miembros, pues pueden usar una API para organizar la totalidad de los datos
+mediante la agrupacion de palabras claves que clasifiquen los datos obtenidos, por otro lado una app de mensajeria en un barrio
+que se una a un sistema de alerta para la comunidad, puede valerse de una API para enviar mensajes masivos e instantaneos 
+que active alarmas comunitarias, o tambien pueden emplearse API como Google Maps fusionada a otra API de coordenadas GPS
+que identifique en el mapa y en tiempo real zonas calientes o de alta criminalidad que alerten a la comunidad
+y por ultimo, las alcaldias municipales podrian implementar una API abierta a la comunidad de reportes barriales que se conecte directamente a una plataforma del estado
+para recoleccion de informacion que brinde a las autoridades informacion en tiempo real.

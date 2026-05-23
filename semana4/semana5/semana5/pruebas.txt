@@ -1,0 +1,3 @@
+ http://localhost:3000: El servidor recibe la solicitud HTTP, responde mostrando la página de inicio con un mensaje general de bienvenida "¡Servidor funcionando!"
+ http://localhost:3000/saludo: El servidor procesa la solicitud de la ruta y devuelve un texto de "Hola, bienvenido a nuestro servidor".
+ http://localhost:3000/mensaje/juan: El servidor detecta el parámetro de la URL, genera una respuesta personalizada, devolviendo algo como "Hola juan"

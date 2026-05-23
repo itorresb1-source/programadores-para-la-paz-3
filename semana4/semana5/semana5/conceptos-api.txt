@@ -1,0 +1,8 @@
+ANÁLISIS DE RUTA API: /reporte
+Esta ruta de tipo POST usa la aplicacion Node.js con el framework express, recepcionando las particiones endpoint 
+  '/reporte y el texto enviado por el usuario desde el cuerpo de la solicitud (req.body.mensaje), almacenando el mensaje en la variable local, respondiendo automaticamente al cliente con un formato JSON, que confirma el exito de la operacion 
+  ("Reporte recibido") y devuelve el mismo mensaje para certificar lo que llegó al servidor.
+  ¿PARA QUÉ PODRÍA SERVIR EN UNA APLICACIÓN COMUNITARIA?
+  En el evento, de una aplicacion comunitaria,este endpoint puede utilizarse 
+  1. como una herramienta de reporte ciudadano, como un espacio en la nube de recopilacion de problemas sociales
+  2. como un canal de sugerencias y de colaboracion asistida entre miembros de una comunidad, mejorando la administracion del sector.
