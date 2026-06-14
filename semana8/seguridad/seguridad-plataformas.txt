@@ -1,0 +1,5 @@
+1-Cifrado de datos en transito y en reposo mediante HTTPS y Base de datos
+2-Autenticación de dos factores (2FA) para administradores y líderes
+3-Control de acceso basado en roles (RBAC) 
+4-Validación, saneamiento de datos y protección contra inyecciones (SQL / NoSQL)
+5-Registro de actividad y auditoría de acciones (Logs de Seguridad)

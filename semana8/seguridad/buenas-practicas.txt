@@ -1,0 +1,4 @@
+echo "1. Usar autenticación de dos factores (2FA) en todas las cuentas posibles para añadir una capa extra de protección" > buenas-practicas.txt
+echo "2. Desconfiar de enlaces o archivos adjuntos sospechosos recibidos por correo o mensajes" >> buenas-practicas.txt
+echo "3. Realizar copias de seguridad (backups) periódicas de la información importante en discos externos o la nube" >> buenas-practicas.txt
+cat buenas-practicas.txt

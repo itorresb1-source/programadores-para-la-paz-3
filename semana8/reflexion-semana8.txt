@@ -1,0 +1,9 @@
+La seguridad digital en plataformas comunitarias es vital porque resguarda la privacidad 
+y la integridad de los datos de ciudadanos que confían en el sistema. 
+Al proteger la aplicación contra hackeos, suplantaciones o filtraciones, 
+se garantiza que los vecinos puedan reportar incidencias de forma segura 
+y sin temor a represalias o acoso. Asimismo, un entorno blindado evita la manipulación 
+malintencionada de los procesos participativos, asegurando que las votaciones o propuestas 
+reflejen la voluntad real del entorno. Mantener la estabilidad técnica y la confidencialidad no 
+solo previene el caos organizativo, sino que es el pilar fundamental para construir legitimidad, 
+credibilidad y una participación democrática activa a largo plazo.

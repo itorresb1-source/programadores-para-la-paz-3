@@ -1,0 +1,12 @@
+1. top o htop (Monitoreo en tiempo real):
+Muestra una lista dinámica y en tiempo real de los procesos activos del sistema.
+
+2. df -h (Espacio en disco)
+Reporta el uso del espacio de almacenamiento en los discos duros o particiones del servidor.
+
+3. free -m (Memoria RAM)
+Muestra el estado actual de la memoria RAM y de la memoria de intercambio (Swap).
+
+Imprime toda la información del sistema operativo y del corazón de la máquina.
+
+El nombre del sistema operativo (ej. Linux), el nombre del host (servidor), la versión exacta del Kernel (núcleo), la fecha de compilación y la arquitectura del procesador (ej. x86_64 para 64 bits).
