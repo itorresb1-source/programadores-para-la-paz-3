@@ -1,0 +1,5 @@
+Al enviar la petición POST (http://localhost:3000/reportes):
+El servidor recibe el objeto JSON con el "tipo" y la "descripcion".
+Genera automáticamente un "id".
+Guarda este nuevo objeto dentro del puerto global llamado "reportes".
+Responde con un mensaje de éxito ("Reporte registrado").
