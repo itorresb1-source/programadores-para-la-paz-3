@@ -1,0 +1,3 @@
+JSON: El servidor responde con la cabecera 'Content-Type: application/json', asegurando que los datos viajen en un formato estándar de intercambio de datos.
+Código: Al ser una petición exitosa, devolverá un estado OK, indicando que el servidor procesó correctamente los datos enviados en el 'req.body'.
+Confirmación de Datos: El cuerpo de la respuesta incluye las propiedades enviadas por el cliente ('nombre' y 'mensaje').
