@@ -1,0 +1,11 @@
+¿Qué ocurre cuando ejecutas "node server.js"?
+El entorno de ejecución de Node.js lee e interpreta el código escrito en el archivo "server.js"
+
+2. ¿Qué mensaje aparece en la terminal?
+   Al ejecutar el comando, en la terminal se imprime el mensaje programado dentro del callback de la función app.listen(). 
+   Servidor levantado con éxito.
+   Prueba la raíz en: http://localhost:3000
+   Prueba el estado en: http://localhost:3000/estado
+
+3. ¿Qué sucede cuando visitas la ruta "/estado"?
+   Cuando un cliente como el navegador web o Postman realiza una petición de tipo GET a 'http://localhost:3000/estado', el servidor intercepta la solicitud a través de su enrutador.

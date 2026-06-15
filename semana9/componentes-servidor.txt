@@ -1,0 +1,9 @@
+a) Sistema operativo: Es el software base que administra todo el hardware de la máquina (procesador, memoria, almacenamiento). 
+
+b) Node.js: Es un entorno de ejecución que permite procesar código directamente en el computador o servidor, fuera del navegador web. 
+
+c) Aplicación server.js: Es el archivo de texto donde escribes la lógica, las reglas y las rutas de tu servidor usando Express. 
+
+d) Puerto: Es una puerta de acceso virtual con un número específico (como el 3000) dentro de tu red o servidor. 
+
+e) Logs: Son archivos de texto o registros que documentan cronológicamente todo lo que pasa en el servidor (errores, accesos, apagones). 
